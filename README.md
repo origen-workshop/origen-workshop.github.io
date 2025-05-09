@@ -1,2 +1,2 @@
-# origen.github.io
+# origen-workshop.github.io
 ORIGen Workshop Website
