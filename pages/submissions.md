@@ -15,7 +15,7 @@ Therefore, establishing optimal levels of reliance within an interactive framewo
 The **ORIGen** provides a new venue to address these questions and more through a multidisciplinary lens.
 We seek to bring together broad perspectives from AI, NLP, HCI, cognitive science, psychology, and education to highlight the importance of mediating human-LLM interactions to mitigate overreliance and promote accountability in collaborative human-AI decision-making.
 
-We welcome papers on the topic of reliance and accountability in human-AI interactions, with a specific focus on under- or overreliance on LLMs. Submissions may fall into any of the following areas:
+We welcome papers on the topic of reliance and accountability in human-AI interactions, with a specific focus on under- or overreliance on LLMs, and establishing accountability for joint human-AI decisions. Submissions may fall into any of the following areas:
 1. **Theory and research methods**: computational, psychological, cognitive, and
 formal models of reliance and accountability;
 2. **Technical**: novel algorithmic approaches, system descriptions, metrics, and experimental paradigms to measure reliance and accountability;
