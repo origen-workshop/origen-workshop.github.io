@@ -10,6 +10,10 @@
   url: "/dates/"
   side: left
 
+- title: Programme
+  url: "/programme/"
+  side: left
+
 - title: Organizers
   url: "/organizers/"
   side: left
