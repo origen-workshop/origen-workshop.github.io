@@ -10,16 +10,17 @@ header:
 widget1:
   title: "Submissions"
   url: 'http://origen-workshop.github.io/submissions/'
-  image: widget-1-302x182.jpg
+  image: 
   text: 'Call for participation'
 widget2:
   title: "Dates"
   url: 'http://origen-workshop.github.io/dates/'
+  image: 
   text: 'Important Dates'
 widget3:
   title: "Organizers"
   url: 'http://origen-workshop.github.io/organizers/'
-  image: widget-github-303x182.jpg
+  image: 
   text: 'About the Organizers'
 #
 # Use the call for action to show a button on the frontpage
