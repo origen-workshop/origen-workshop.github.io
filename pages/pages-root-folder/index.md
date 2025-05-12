@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth:
 widget1:
   title: "Submissions"
   url: 'http://origen-workshop.github.io/submissions/'
