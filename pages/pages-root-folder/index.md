@@ -11,7 +11,7 @@ widget1:
   title: "Submissions"
   url: 'http://origen-workshop.github.io/submissions/'
   image: 
-  text: 'Call for participation'
+  text: 'Call for Participation'
 widget2:
   title: "Dates"
   url: 'http://origen-workshop.github.io/dates/'
