@@ -8,7 +8,7 @@ layout: gallery
 title: "Organizers"
 widget1:
   title: "Nikhil Krishnaswamy"
-  url: 'http://origen-workshop.github.io/'
+  url: 'https://www.nikhilkrishnaswamy.com/'
   image: 
   text: 'Colorado State University'
 widget2:
