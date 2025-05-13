@@ -26,22 +26,22 @@ widget4:
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'Tufts University'
-widget1:
+widget5:
   title: "Tejas Srinivasan"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'University of Southern California'
-widget2:
+widget6:
   title: "Mariah Bradford"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'Colorado State University'
-widget3:
+widget7:
   title: "Mert İnan"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'Northeastern University'
-widget4:
+widget8:
   title: "Tim Obiso"
   url: 'http://origen-workshop.github.io/'
   image: 
