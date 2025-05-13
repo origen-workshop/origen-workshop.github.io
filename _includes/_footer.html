@@ -69,6 +69,14 @@
             {% endfor %}
             </ul>
           </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list sponsor-icons">
+            {% for sponsor in site.data.sponsors %}
+              <li><a href="{{ sponsor.url }}" target="_blank" title="{{ sponsor.title }}"><img src="{{ sponsor.image }}"</a></li>
+            {% endfor %}
+            </ul>
+          </section>
         </nav>
       </div><!-- /#subfooter -->
     </footer>
