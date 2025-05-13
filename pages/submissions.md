@@ -4,7 +4,7 @@ title               : "Submissions"
 permalink           : "/submissions/"
 ---
 
-## About the Workshop
+## <a name="about"></a>About the Workshop
 
 With the rapid integration of generative AI, exemplified by large language models (LLMs), into personal, educational, business, and even governmental workflows, such systems are increasingly being treated as “collaborators” with humans.
 In such scenarios, underreliance or avoidance of AI assistance may obviate the potential speed, efficiency, or scalability advantages of a human-LLM team, but simultaneously, there is a risk that subject matter non-experts may overrely on LLMs and trust their outputs uncritically, with consequences ranging from the inconvenient to the catastrophic.
