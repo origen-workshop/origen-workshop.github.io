@@ -27,6 +27,10 @@ format: gallery
 	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
 		{% include _gallery-widget.html widget=page.widget3 %}
 	{% endif %}
+
+	{% if page.widget5.image or page.widget5.video or page.widge5.title %}
+		{% include _gallery-widget.html widget=page.widget5 %}
+	{% endif %}
 </div><!-- /.row -->
 <div class="row t60">
 	{% if page.widget5.image or page.widget5.video or page.widge5.title %}
