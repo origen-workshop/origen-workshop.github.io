@@ -1,12 +1,12 @@
-# - name: GitHub
-#   url: http://github.com/phlow
-#   class: icon-github
-#   title: Code und mehr...
+ - name: COLM
+   url: https://colmweb.org
+   image: logo.svg
+   title: "COLM 2025"
 
-# - name: YouTube
-#   url: http://www.youtube.com/PhlowMedia
-#   class: icon-youtube
-#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+ - name: AIJ
+   url: https://aij.ijcai.org
+   image: ARTINT_Logo2_c_web_more.jpg
+   title: "AIJ"
 
 # - name: Twitter
 #   url: http://twitter.com/phlow
