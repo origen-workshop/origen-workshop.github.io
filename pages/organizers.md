@@ -6,23 +6,46 @@
 #
 layout: gallery
 title: "Organizers"
-header:
-  image_fullwidth: header_unsplash_5.jpg
 widget1:
-  title: "Submissions"
-  url: 'http://origen-workshop.github.io/submissions/'
+  title: "Nikhil Krishnaswamy"
+  url: 'http://origen-workshop.github.io/'
   image: 
-  text: 'Call for Participation'
+  text: 'Colorado State University'
 widget2:
-  title: "Dates"
-  url: 'http://origen-workshop.github.io/dates/'
+  title: "Dilek Hakkani-Tür"
+  url: 'http://origen-workshop.github.io/'
   image: 
-  text: 'Important Dates'
+  text: 'University of Illinois Urbana-Champaign'
 widget3:
-  title: "Organizers"
-  url: 'http://origen-workshop.github.io/organizers/'
+  title: "James Pustejovsky"
+  url: 'http://origen-workshop.github.io/'
   image: 
-  text: 'About the Organizers'
+  text: 'Brandeis University'
+widget4:
+  title: "Vasanth Sarathy"
+  url: 'http://origen-workshop.github.io/'
+  image: 
+  text: 'Tufts University'
+widget1:
+  title: "Tejas Srinivasan"
+  url: 'http://origen-workshop.github.io/'
+  image: 
+  text: 'University of Southern California'
+widget2:
+  title: "Mariah Bradford"
+  url: 'http://origen-workshop.github.io/'
+  image: 
+  text: 'Colorado State University'
+widget3:
+  title: "Mert İnan"
+  url: 'http://origen-workshop.github.io/'
+  image: 
+  text: 'Northeastern University'
+widget4:
+  title: "Tim Obiso"
+  url: 'http://origen-workshop.github.io/'
+  image: 
+  text: 'Brandeis University'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -37,7 +60,7 @@ widget3:
 #   url: https://tinyletter.com/feeling-responsive
 #   text: Inform me about new updates and features ›
 #   style: alert
-permalink: /organizers
+permalink: /organizers/
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
