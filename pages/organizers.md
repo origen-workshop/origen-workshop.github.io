@@ -52,7 +52,7 @@ widget7:
   url: 'https://merterm.github.io'
   image: 'headshots/inan.jpg'
   text: 'Northeastern University'
-  description: 'Mert Inan is a Computer Science Ph.D. candidate at Northeastern University. His research focus is at the intersection of multimodality, dialogue, and cognitive science. He has published at ACL venues. Notably, he has worked on signed languages, detecting uncertainty, and discourse through eye gaze and visio-linguistic data. He has been a part of organizing committees of multiple workshops, such as WMT-SLT'23, SpLU-RoboNLP'23-24 at EMNLP, *SEM 2023 at ACL, and Dialogue with Robots by NSF.'
+  description: 'Mert İnan is a Computer Science Ph.D. candidate at Northeastern University. His research focus is at the intersection of multimodality, dialogue, and cognitive science. He has published at ACL venues. Notably, he has worked on signed languages, detecting uncertainty, and discourse through eye gaze and visio-linguistic data. He has been a part of organizing committees of multiple workshops, such as WMT-SLT\'23, SpLU-RoboNLP\'23-24 at EMNLP, *SEM 2023 at ACL, and Dialogue with Robots by NSF.'
 widget8:
   id: tim
   title: "Tim Obiso"
