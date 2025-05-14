@@ -7,43 +7,51 @@
 layout: gallery
 title: "Organizers"
 widget1:
+  id: nikhil
   title: "Nikhil Krishnaswamy"
   url: 'https://www.nikhilkrishnaswamy.com/'
   image: 'headshots/krishnaswamy.jpg'
   text: 'Colorado State University'
   description: "Lorem ipsum dolor sit amet"
 widget2:
+  id: dilek
   title: "Dilek Hakkani-Tür"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'University of Illinois Urbana-Champaign'
   description:
 widget3:
+  id: james
   title: "James Pustejovsky"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'Brandeis University'
 widget4:
+  id: vasanth
   title: "Vasanth Sarathy"
   url: 'http://origen-workshop.github.io/'
   image: 'headshots/sarathy.jpg'
   text: 'Tufts University'
 widget5:
+  id: tejas
   title: "Tejas Srinivasan"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'University of Southern California'
 widget6:
+  id: mariah
   title: "Mariah Bradford"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'Colorado State University'
 widget7:
+  id: mert
   title: "Mert İnan"
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'Northeastern University'
 widget8:
+  id: tim
   title: "Tim Obiso"
   url: 'http://origen-workshop.github.io/'
   image: 
