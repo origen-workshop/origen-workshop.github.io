@@ -10,11 +10,13 @@
 
 {% capture widget_url %}{% if include.widget.url == NULL %}{% elsif include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 
+{% capture widget_id %}{% if include.widget.id == NULL %}{{ include.widget.id }}{% endif %}{% endcapture %}
+
 {% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
 
 <script>
-	function showHideDesc() {
-		var x = document.getElementById("description");
+	function showHideDesc(id) {
+		var x = document.getElementById(id);
 		if (x.style.display === "none") {
 			x.style.display = "block";
 		} else {
@@ -37,7 +39,7 @@
 
 	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
 	{% if include.widget.description != empty %}
-		<button class="tiny radius" onclick="showHideDesc()">{{ site.data.language.more }}</button>
+		<button class="tiny radius" onclick="showHideDesc(widget_id)">{{ site.data.language.more }}</button>
 		<div id="description">
   			{{ include.widget.description }} {% if widget_url != empty %}<a href="{{ widget_url }}" target="_blank">{{ site.data.language.more }}</a>{% endif %}
 		</div>
