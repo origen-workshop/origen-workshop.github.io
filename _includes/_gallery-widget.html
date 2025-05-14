@@ -37,7 +37,7 @@
 
 	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
 	{% if include.widget.description != empty %}
-		<button type="button" onclick="showHideDesc()">{{ site.data.language.more }}</button>
+		<button class="tiny radius" onclick="showHideDesc()">{{ site.data.language.more }}</button>
 		<div id="description">
   			{{ include.widget.description }}
 		</div>
