@@ -32,12 +32,14 @@ widget4:
   url: 'http://origen-workshop.github.io/'
   image: 'headshots/sarathy.jpg'
   text: 'Tufts University'
+  description: 'Vasanth Sarathy is a Research Assistant Professor of Computer Science at Tufts University and Director of the Creative Intelligence Lab. His research lies at the intersection of artificial intelligence, cognitive science, and philosophy, with a focus on socially intelligent agents, neurosymbolic reasoning, and the dynamics of representational coherence. He has published across AI safety, interpretability, and argumentation, and his work has been supported by DARPA, NSF, and IARPA. Prior to academia, he practiced law and brings a multidisciplinary perspective to questions of intelligence, communication, and normative alignment in AI systems.'
 widget5:
   id: tejas
   title: "Tejas Srinivasan"
-  url: 'http://origen-workshop.github.io/'
-  image: 
+  url: 'https://tejas1995.github.io'
+  image: 'headshots/srinivasan.jpg'
   text: 'University of Southern California'
+  description: 'Tejas Srinivasan is a Computer Science Ph.D. student at the University of Southern California. His research is centered on building AI systems that can be used by humans reliably. His work has been published at NeurIPS, *CL venues and speech conferences, spanning topics such as human-AI interaction, reliable multimodal systems, continual learning and multimodal speech recognition. He is a recipient of the Amazon ML Fellowship.'
 widget6:
   id: mariah
   title: "Mariah Bradford"
