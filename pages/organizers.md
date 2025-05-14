@@ -17,6 +17,7 @@ widget2:
   url: 'http://origen-workshop.github.io/'
   image: 
   text: 'University of Illinois Urbana-Champaign'
+  description:
 widget3:
   title: "James Pustejovsky"
   url: 'http://origen-workshop.github.io/'
