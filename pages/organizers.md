@@ -24,7 +24,7 @@ widget3:
 widget4:
   title: "Vasanth Sarathy"
   url: 'http://origen-workshop.github.io/'
-  image: 
+  image: 'headshots/sarathy.jpg'
   text: 'Tufts University'
 widget5:
   title: "Tejas Srinivasan"
