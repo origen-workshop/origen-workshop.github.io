@@ -40,7 +40,7 @@
 	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
 	{% if include.widget.description != empty %}
 		<button class="tiny radius" onclick="showHideDesc('{{ widget_id}}')">{{ site.data.language.more }}</button>
-		<div id="{{ widget_id }}">
+		<div id="{{ widget_id }}" style="display: none;">
   			{{ include.widget.description }} {% if widget_url != empty %}<a href="{{ widget_url }}" target="_blank">{{ site.data.language.more }}</a>{% endif %}
 		</div>
 	{% endif %}
