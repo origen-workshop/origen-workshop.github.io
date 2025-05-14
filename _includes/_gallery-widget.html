@@ -39,8 +39,7 @@
 	{% if include.widget.description != empty %}
 		<button class="tiny radius" onclick="showHideDesc()">{{ site.data.language.more }}</button>
 		<div id="description">
-  			{{ include.widget.description }}
+  			{{ include.widget.description }} {% if widget_url != empty %}<a href="{{ widget_url }}" target="_blank">{{ site.data.language.more }}</a>{% endif %}
 		</div>
 	{% endif %}
-	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}" target="_blank">{{ site.data.language.more }}</a></p>{% endif %}
 </div>
