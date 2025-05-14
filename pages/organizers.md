@@ -9,7 +9,7 @@ title: "Organizers"
 widget1:
   title: "Nikhil Krishnaswamy"
   url: 'https://www.nikhilkrishnaswamy.com/'
-  image: 'krishnaswamy.jpg'
+  image: 'headshots/krishnaswamy.jpg'
   text: 'Colorado State University'
 widget2:
   title: "Dilek Hakkani-Tür"
