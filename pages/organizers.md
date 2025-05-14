@@ -12,31 +12,31 @@ widget1:
   url: 'https://www.nikhilkrishnaswamy.com/'
   image: 'headshots/krishnaswamy.jpg'
   text: 'Colorado State University'
-  description: "Lorem ipsum dolor sit amet"
+  description: 'Nikhil Krishnaswamy, Ph.D., is an Assistant Professor of Computer Science at Colorado State University, and director of the [Situated Grounding and Natural Language (SIGNAL) Lab](https://www.signallab.ai). His research focuses on diverse forms of natural language and multimodal understanding in human-AI collaboration, and on the mathematical and logical properties of AI models. He is the author of over 90 peer-reviewed publications across the fields of NLP, AI/machine learning, human-computer/human-agent interaction, and cognitive science, and has received multiple best paper or outstanding paper awards for research on interactive systems, human-AI teaming, HCI, and NLP in education. His research has been funded by NSF, DARPA, ARPA-H, and ARO, and he has been featured in national outlets such as NPR and the Wall Street Journal.'
 widget2:
   id: dilek
   title: "Dilek Hakkani-Tür"
-  url: 'http://origen-workshop.github.io/'
+  url: 'https://siebelschool.illinois.edu/about/people/faculty/dilek'
   image: 
   text: 'University of Illinois Urbana-Champaign'
   description:
 widget3:
   id: james
   title: "James Pustejovsky"
-  url: 'http://origen-workshop.github.io/'
+  url: 'https://jamespusto.com/'
   image: 
   text: 'Brandeis University'
 widget4:
   id: vasanth
   title: "Vasanth Sarathy"
-  url: 'http://origen-workshop.github.io/'
+  url: 'https://vsarathy.com'
   image: 'headshots/sarathy.jpg'
   text: 'Tufts University'
   description: 'Vasanth Sarathy is a Research Assistant Professor of Computer Science at Tufts University and Director of the Creative Intelligence Lab. His research lies at the intersection of artificial intelligence, cognitive science, and philosophy, with a focus on socially intelligent agents, neurosymbolic reasoning, and the dynamics of representational coherence. He has published across AI safety, interpretability, and argumentation, and his work has been supported by DARPA, NSF, and IARPA. Prior to academia, he practiced law and brings a multidisciplinary perspective to questions of intelligence, communication, and normative alignment in AI systems.'
 widget5:
   id: tejas
   title: "Tejas Srinivasan"
-  url: 'https://tejas1995.github.io'
+  url: 'https://tejas1995.github.io/'
   image: 'headshots/srinivasan.jpg'
   text: 'University of Southern California'
   description: 'Tejas Srinivasan is a Computer Science Ph.D. student at the University of Southern California. His research is centered on building AI systems that can be used by humans reliably. His work has been published at NeurIPS, *CL venues and speech conferences, spanning topics such as human-AI interaction, reliable multimodal systems, continual learning and multimodal speech recognition. He is a recipient of the Amazon ML Fellowship.'
