@@ -43,19 +43,19 @@ widget5:
 widget6:
   id: mariah
   title: "Mariah Bradford"
-  url: 'http://origen-workshop.github.io/'
+  url: 'https://bbykitty.github.io'
   image: 
   text: 'Colorado State University'
 widget7:
   id: mert
   title: "Mert İnan"
-  url: 'http://origen-workshop.github.io/'
+  url: 'https://merterm.github.io'
   image: 
   text: 'Northeastern University'
 widget8:
   id: tim
   title: "Tim Obiso"
-  url: 'http://origen-workshop.github.io/'
+  url: 'https://timothyobiso.github.io'
   image: 
   text: 'Brandeis University'
 #
