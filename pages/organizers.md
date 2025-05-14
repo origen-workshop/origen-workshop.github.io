@@ -11,6 +11,7 @@ widget1:
   url: 'https://www.nikhilkrishnaswamy.com/'
   image: 'headshots/krishnaswamy.jpg'
   text: 'Colorado State University'
+  description: "Lorem ipsum dolor sit amet"
 widget2:
   title: "Dilek Hakkani-Tür"
   url: 'http://origen-workshop.github.io/'
