@@ -14,6 +14,10 @@
   url: "/programme/"
   side: left
 
+- title: Invited Speakers
+  url: "/speakers/"
+  side: left
+
 - title: Organizers
   url: "/organizers/"
   side: left
