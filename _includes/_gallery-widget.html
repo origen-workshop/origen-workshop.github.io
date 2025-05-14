@@ -1,3 +1,4 @@
+
 {% comment %}
 *
 *   First the include captures the url and image in a
@@ -25,6 +26,10 @@
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
 
 	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
-	{% if include.widget.description != empty %}<p>{{ include.widget.description }}</p>{% endif %}
+	{% if include.widget.description != empty %}
+		<div id="description">
+  			{{ include.widget.description }}
+		</div>
+	{% endif %}
 	{% if widget_url != empty %}<p><a class="button tiny radius" href="{{ widget_url }}" target="_blank">{{ site.data.language.more }}</a></p>{% endif %}
 </div>
