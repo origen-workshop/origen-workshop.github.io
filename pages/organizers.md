@@ -24,7 +24,7 @@ widget3:
   id: james
   title: "James Pustejovsky"
   url: 'https://jamespusto.com/'
-  image: 'headshots/james.png'
+  image: 'headshots/pustejovsky.jpg'
   text: 'Brandeis University'
   description: 'James Pustejovsky is the TJX Feldberg Endowed Chair in Computer Science at Brandeis University, where he is also Chair of the Linguistics Program, Chair of the Computational Linguistics M.S. Program, and Director of the Lab for Linguistics and Computation. He has authored numerous books on lexical and computational semantics, linguistic annotation, and temporal and spatial reasoning, including Spatial Language Understanding (with P. Kordjamshidi and M.-F. Moens, Springer 2025) and Generative Lexicon Theory: A Modern Introduction (with E. Jezek, Oxford University Press, 2026). He conducts research in computational linguistics, lexical semantics, multimodal interactions and reasoning, situated grounding, and developing standards and annotated datasets for machine learning. He was elected an ACL Fellow in 2024.'
 widget4:
