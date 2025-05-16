@@ -57,7 +57,7 @@ widget8:
   id: tim
   title: "Tim Obiso"
   url: 'https://timothyobiso.github.io'
-  image: 
+  image: 'headshots/obiso.jpg'
   text: 'Brandeis University'
 #
 # Use the call for action to show a button on the frontpage
