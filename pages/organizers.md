@@ -61,7 +61,7 @@ widget8:
   url: 'https://timothyobiso.github.io'
   image: 'headshots/obiso.jpg'
   text: 'Brandeis University'
-  description:
+  description: 'Tim Obiso is a Ph.D. student and graduate research assistant in the Lab for Linguistics and Computation at Brandeis University, where he works on natural language processing with a focus on multimodal semantics, human-AI collaboration, epistemic and doxastic modeling, and representation learning with various architectures. This experience informs his understanding of communication and collaboration and managing the various states of open-ended tasks.'
 #
 # Use the call for action to show a button on the frontpage
 #
