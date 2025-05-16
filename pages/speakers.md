@@ -24,7 +24,7 @@ widget3:
   id: bertram
   title: "Bertram Malle"
   url: 'https://vivo.brown.edu/display/bmalle'
-  image: 'headshorts/bertram.jpg'
+  image: 'headshots/bertram.jpg'
   text: 'Brown University'
   description: 'Bertram F. Malle is a Professor of Cognitive and Psychological Sciences at Brown University. He received the Society of Experimental Social Psychology (SESP) Outstanding Dissertation award, an NSF CAREER award, the Decision Analysis Society 2018 best publication award, several HRI best-paper awards, and the 2019 SESP Scientific Impact Award. Malle’s research focuses on moral psychology and human-machine interaction.'
 widget4:
