@@ -19,7 +19,7 @@ widget2:
   url: 'https://siebelschool.illinois.edu/about/people/faculty/dilek'
   image: 'headshots/hakkanitur.jpg'
   text: 'University of Illinois Urbana-Champaign'
-  description: 'Dilek Hakkani-Tür is a Professor of Computer Science at University of Illinois Urbana-Champaign and an Amazon Scholar (at Amazon Health Science). Her research interests include conversational AI, natural language and speech processing, spoken dialogue systems, and machine learning for language processing. She has over 100 patents that were granted and co-authored more than 300 papers in natural language and speech processing. She received several best paper awards for publications she co-authored on conversational systems, including her earlier work on active learning for dialogue systems, from IEEE Signal Processing Society, ISCA and EURASIP. She served as an associate editor for IEEE Transactions on Audio, Speech and Language Processing, member of the IEEE Speech and Language Technical Committee, area editor for speech and language processing for Elsevier's Digital Signal Processing Journal and IEEE Signal Processing Letters and served on the ISCA Advisory Council. She also served as the Editor-in-Chief of the IEEE/ACM Transactions on Audio, Speech and Language Processing (2019-2021), and an IEEE Distinguished Industry Speaker (2021). Currently, she serves as the SigDial President, co-Editor-in-Chief of Transactions of ACL (TACL) and a NAACL board member. She is a fellow of the IEEE (2014), ISCA (2014) and ACL (2024).'
+  description: 
 widget3:
   id: james
   title: "James Pustejovsky"
