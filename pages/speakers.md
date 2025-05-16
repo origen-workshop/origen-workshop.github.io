@@ -48,7 +48,7 @@ widget4:
 #   url: https://tinyletter.com/feeling-responsive
 #   text: Inform me about new updates and features ›
 #   style: alert
-permalink: /organizers/
+permalink: /speakers/
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
