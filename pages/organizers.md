@@ -26,6 +26,7 @@ widget3:
   url: 'https://jamespusto.com/'
   image: 
   text: 'Brandeis University'
+  description:
 widget4:
   id: vasanth
   title: "Vasanth Sarathy"
@@ -46,6 +47,7 @@ widget6:
   url: 'https://bbykitty.github.io'
   image: 
   text: 'Colorado State University'
+  description:
 widget7:
   id: mert
   title: "Mert İnan"
@@ -59,6 +61,7 @@ widget8:
   url: 'https://timothyobiso.github.io'
   image: 'headshots/obiso.jpg'
   text: 'Brandeis University'
+  description:
 #
 # Use the call for action to show a button on the frontpage
 #
