@@ -26,7 +26,7 @@ widget3:
   url: 'https://jamespusto.com/'
   image: 'headshots/pustejovsky.jpg'
   text: 'Brandeis University'
-  description: 'James Pustejovsky is the TJX Feldberg Endowed Chair in Computer Science at Brandeis University, where he is also Chair of the Linguistics Program, Chair of the Computational Linguistics M.S. Program, and Director of the Lab for Linguistics and Computation. He has authored numerous books on lexical and computational semantics, linguistic annotation, and temporal and spatial reasoning, including Spatial Language Understanding (with P. Kordjamshidi and M.-F. Moens, Springer 2025) and Generative Lexicon Theory: A Modern Introduction (with E. Jezek, Oxford University Press, 2026). He conducts research in computational linguistics, lexical semantics, multimodal interactions and reasoning, situated grounding, and developing standards and annotated datasets for machine learning. He was elected an ACL Fellow in 2024.'
+  description: 'James Pustejovsky is the TJX Feldberg Endowed Chair in Computer Science at Brandeis University, where he is also Chair of the Linguistics Program, Chair of the Computational Linguistics M.S. Program, and Director of the Lab for Linguistics and Computation (LLC). He has authored numerous books on lexical and computational semantics, linguistic annotation, and temporal and spatial reasoning, including Spatial Language Understanding (with P. Kordjamshidi and M.-F. Moens, Springer 2025) and Generative Lexicon Theory: A Modern Introduction (with E. Jezek, Oxford University Press, 2026). He conducts research in computational linguistics, lexical semantics, multimodal interactions and reasoning, situated grounding, and developing standards and annotated datasets for machine learning. He was elected an ACL Fellow in 2024.'
 widget4:
   id: vasanth
   title: "Vasanth Sarathy"
@@ -45,9 +45,9 @@ widget6:
   id: mariah
   title: "Mariah Bradford"
   url: 'https://bbykitty.github.io'
-  image: 
+  image: 'headshots/bradford.jpg'
   text: 'Colorado State University'
-  description:
+  description: 'Mariah Bradford is a Ph.D. student and graduate research assistant in the Situated Grounding and Natural Language Lab at Colorado State University, where she works on human-centered AI. Her research focuses on understanding group interactions and collaborative tasks, individual and group belief tracking from multimodal signals, and analysis of small group and hybrid human-AI task-based discussions. Her research has appeared in diverse AI and education venues including AIED, EDM, LREC-COLING, and EMNLP. She has served on the program committees for conferences such as LREC, COLING, and AIED, and is a recipient of an AIVO AI4ED Fellowship, sponsored by Google.org'
 widget7:
   id: mert
   title: "Mert İnan"
