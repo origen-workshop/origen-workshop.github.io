@@ -32,5 +32,4 @@ Therefore, establishing optimal levels of reliance within an interactive framewo
 * What methods can be used to imbue such interactions with appropriate levels of “friction” to ensure that humans think through the decisions they make with LLMs in the loop?
   
 The **ORIGen** workshop provides a new venue to address these questions and more through a multidisciplinary lens.
-We seek to bring together broad perspectives from AI, NLP, HCI, cognitive science, psychology, and education to highlight the importance of mediating human-LLM interactions to mitigate overreliance and promote accountability in collaborative human-AI decision-making.
-Please see our [call for papers](https://origen-workshop.github.io/submissions/) for more!
+We seek to bring together broad perspectives from AI, NLP, HCI, cognitive science, psychology, and education to highlight the importance of mediating human-LLM interactions to mitigate overreliance and promote accountability in collaborative human-AI decision-making. Please see our [call for papers](https://origen-workshop.github.io/submissions/#about) for more!
