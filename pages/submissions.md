@@ -37,10 +37,10 @@ Please see the [important dates](https://origen-workshop.github.io/dates/). No s
 
 Papers that have been or will be submitted to other venues must indicate this at submission time. Non-archival cross-submissions of previously-published papers or papers already accepted for publication elsewhere must indicate the other venue at submission time (ideally with a link to a proceedings or OpenReview submission). Authors of papers accepted for presentation at ORIGen 2025 must notify the organizers by the [camera-ready deadline](https://origen-workshop.github.io/dates/) regarding whether the paper will be presented.
 
-### Pesentation at the Workshop ###
+## Presentation at the Workshop ###
 
 Accepted archival papers must be presented at the workshop to appear in the proceedings. All accepted papers will be presented as posters. At least one author of every accepted paper must register for and attend the workshop in person. Please see the [schedule](https://origen-workshop.github.io/programme/) for details.
 
-## Attendee Support
+### Attendee Support
 
 We will provide a limited number of grants, with support from the Artificial Intelligence Journal's [31st Call for Funding Opportunities for Promoting AI Research](https://aij.ijcai.org/funding-opportunities-for-promoting-ai-research/) (under the name First Workshop on Friction in Language Modeling), to help defray travel and attendance costs. Applications for these grants will open after the accepted papers are announced.
