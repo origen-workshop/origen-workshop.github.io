@@ -31,7 +31,7 @@ This list is non-exhaustive and we welcome any relevant work. Submissions must b
 
 ORIGen will accept both *original research* and non-archival *cross-submissions*. Original research papers may be *long papers* (up to 9 pages, not including references) or *short papers* (up to 5 pages, not including references) prepared according to the [COLM template](https://github.com/COLM-org/Template/archive/refs/tags/2025.zip). These submissions will undergo *double-blind* review and so must be fully anonymized.  Original research papers may be submitted as *archival* or *non-archival* contributions. Accepted archival original research papers will be published in a proceedings after the workshop on an open-access proceedings platform such as [CEUR-WS](https://ceur-ws.org), and will receive an additional page in the camera-ready version to incorporate reviewer comments. Publishing in the proceedings of ORIGen will not preclude submission of the published work in the same or updated form to future venues, unless otherwise indicated by the other venue. We will also welcome cross-submissions from other venues (e.g., *ACL or the COLM main conference) who wish to present their work at ORIGen. These submissions will be assessed for relevance and fit for ORIGen, and may be either single-blind or double-blind.
 
-Please see the [important dates]((https://origen-workshop.github.io/dates/). No submissions will be accepted after the posted deadline(s).
+Please see the [important dates](https://origen-workshop.github.io/dates/). No submissions will be accepted after the posted deadline(s).
 
 ### Dual-Submission Policy ###
 
