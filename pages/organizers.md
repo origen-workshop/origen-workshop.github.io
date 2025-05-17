@@ -47,7 +47,7 @@ widget6:
   url: 'https://bbykitty.github.io'
   image: 'headshots/bradford.jpg'
   text: 'Colorado State University'
-  description: 'Mariah Bradford is a Ph.D. student and graduate research assistant in the Situated Grounding and Natural Language Lab at Colorado State University, where she works on human-centered AI. Her research focuses on understanding group interactions and collaborative tasks, individual and group belief tracking from multimodal signals, and analysis of small group and hybrid human-AI task-based discussions. Her research has appeared in diverse AI and education venues including AIED, EDM, LREC-COLING, and EMNLP. She has served on the program committees for conferences such as LREC, COLING, and AIED, and is a recipient of an AIVO AI4ED Fellowship, sponsored by Google.org'
+  description: 'Mariah Bradford is a Ph.D. student and graduate research assistant in the Situated Grounding and Natural Language Lab at Colorado State University, where she works on human-centered AI. Her research focuses on understanding group interactions and collaborative tasks, individual and group belief tracking from multimodal signals, and analysis of small group and hybrid human-AI task-based discussions. Her research has appeared in diverse AI and education venues including AIED, EDM, LREC-COLING, and EMNLP. She has served on the program committees for conferences such as LREC, COLING, and AIED, and is a recipient of an AIVO AI4ED Fellowship, sponsored by Google.org.'
 widget7:
   id: mert
   title: "Mert İnan"
