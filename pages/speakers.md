@@ -34,17 +34,14 @@ widget4:
   image: 'headshots/vera.jpg'
   text: 'University of Michigan/MSR FATE'
   description: 'Q. Vera Liao is an Associate Professor of Computer Science and Engineering at the University of Michigan, and previously a researcher at Microsoft Research and IBM research. Her current interests are in human-AI interaction, responsible AI and AI transparency, with a goal of bridging emerging AI technologies and human-centered perspectives.'
-
-layout: gallery
-title: "Panelists"
-widget1:
+widget5:
   id: matthias
   title: "Matthias Scheutz"
   url: 'https://www.nikhilkrishnaswamy.com/'
   image: 'headshots/scheutz.jpg'
   text: 'Tufts University'
   description: 'Matthias Scheutz is the Karol Family Applied Technology Professor of computer science in the Department of Computer Science at Tufts University in the School of Engineering, and Director of the Human-Robot Interaction (HRI) Laboratory and the HRI Masters and PhD programs.  He has over 400 peer-reviewed publications in artificial intelligence, artificial life, agent-based computing, natural language understanding, cognitive modeling, robotics, human-robot interaction and foundations of cognitive science. His current research focuses on complex ethical AI-enabled robots with natural language interaction, problem-solving, and instruction-based learning capabilities in open worlds.'
-widget2:
+widget6:
   id: jesse
   title: "Jesse Thomason"
   url: 'https://jessethomason.com/'
