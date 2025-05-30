@@ -37,7 +37,7 @@ widget4:
 widget5:
   id: matthias
   title: "Matthias Scheutz"
-  url: 'https://www.nikhilkrishnaswamy.com/'
+  url: 'https://engineering.tufts.edu/cs/people/faculty/matthias-scheutz'
   image: 'headshots/scheutz.jpg'
   text: 'Tufts University'
   description: 'Matthias Scheutz is the Karol Family Applied Technology Professor of computer science in the Department of Computer Science at Tufts University in the School of Engineering, and Director of the Human-Robot Interaction (HRI) Laboratory and the HRI Masters and PhD programs.  He has over 400 peer-reviewed publications in artificial intelligence, artificial life, agent-based computing, natural language understanding, cognitive modeling, robotics, human-robot interaction and foundations of cognitive science. His current research focuses on complex ethical AI-enabled robots with natural language interaction, problem-solving, and instruction-based learning capabilities in open worlds.'
@@ -45,9 +45,9 @@ widget6:
   id: jesse
   title: "Jesse Thomason"
   url: 'https://jessethomason.com/'
-  image: 'headshots/scheutz.jpg'
+  image: 'headshots/thomason.jpg'
   text: 'University of Southern California'
-  description: 'TBD.'
+  description: ''
 #
 # Use the call for action to show a button on the frontpage
 #
