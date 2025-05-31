@@ -47,7 +47,7 @@ widget6:
   url: 'https://jessethomason.com/'
   image: 'headshots/thomason.jpg'
   text: 'University of Southern California'
-  description: 'Jesse is an Assistant Professor at the University of Southern California where he leads the Grounding Language in Actions, Multimodal Observations, and Robots (GLAMOR) Lab. His research enables agents and robots to better understand and respond to human language by considering the grounded context in which that language occurs. GLAMOR has received funding from the Defense Advanced Projects Research Agency (DARPA), Amazon, the National Science Foundation (NSF), the National Institute of Health (NIH), the Army Research Laboratory (ARL), and the Laboratory for Analytical Sciences (LAS). Previously, he was a postdoctoral researcher at the University of Washington, and received his PhD in 2018 from the University of Texas at Austin.'
+  description: 'Jesse Thomason is an Assistant Professor at the University of Southern California where he leads the Grounding Language in Actions, Multimodal Observations, and Robots (GLAMOR) Lab. His research enables agents and robots to better understand and respond to human language by considering the grounded context in which that language occurs. GLAMOR has received funding from the Defense Advanced Projects Research Agency (DARPA), Amazon, the National Science Foundation (NSF), the National Institute of Health (NIH), the Army Research Laboratory (ARL), and the Laboratory for Analytical Sciences (LAS). Previously, he was a postdoctoral researcher at the University of Washington, and received his PhD in 2018 from the University of Texas at Austin.'
 #
 # Use the call for action to show a button on the frontpage
 #
