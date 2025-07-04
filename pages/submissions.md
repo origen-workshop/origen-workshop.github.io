@@ -33,13 +33,13 @@ ORIGen will accept both *original research* and non-archival *cross-submissions*
 
 Please see the [important dates](https://origen-workshop.github.io/dates/). No submissions will be accepted after the posted deadline(s).
 
-### <a name="lb"></a>Late-Breaking Papers 
-
-**NEW!** ORIGen is inviting the submission of Late Breaking papers, due July 10! Notifications will be sent by July 24, alongside notifications of other papers. Please see [the posted announcement](https://origen-workshop.github.io/announcements/late-breaking-submission-track/) for more. Authors of Late Breaking papers that have been  reviewed previously may choose to include a link to the previous reviews if available.
-
 ### Dual-Submission Policy
 
 Papers that have been or will be submitted to other venues must indicate this at submission time. Non-archival cross-submissions of previously-published papers or papers already accepted for publication elsewhere must indicate the other venue at submission time (ideally with a link to a proceedings or OpenReview submission). Authors of papers accepted for presentation at ORIGen 2025 must notify the organizers by the [camera-ready deadline](https://origen-workshop.github.io/dates/) regarding whether the paper will be presented.
+
+### <a name="lb"></a>Late-Breaking Papers 
+
+<ins>***NEW!***</ins> ORIGen is inviting the submission of Late Breaking papers, due **July 10, 2025**! Notifications will be sent by July 24, alongside notifications of other papers. Please see [the posted announcement](https://origen-workshop.github.io/announcements/late-breaking-submission-track/) for more. Authors of Late Breaking papers that have been  reviewed previously may choose to include a link to the previous reviews if available. All other stipulations on this page also apply to Late Breaking submissions.
 
 ## Presentation at the Workshop
 
