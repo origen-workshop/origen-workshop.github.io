@@ -39,7 +39,7 @@ Papers that have been or will be submitted to other venues must indicate this at
 
 ### <a name="lb"></a>Late-Breaking Papers 
 
-<ins>***NEW!***</ins> ORIGen is inviting the submission of Late Breaking papers, due **July 10, 2025**! Notifications will be sent by July 24, alongside notifications of other papers. Please see [the posted announcement](https://origen-workshop.github.io/announcements/late-breaking-submission-track/) for more. Authors of Late Breaking papers that have been  reviewed previously may choose to include a link to the previous reviews if available. All other stipulations on this page also apply to Late Breaking submissions.
+<ins>***NEW!***</ins> ORIGen is inviting the submission of Late Breaking papers! Submissions will open July 7, 2025 and be due **July 10**! Notifications will be sent by July 24, alongside notifications of other papers. Please see [the posted announcement](https://origen-workshop.github.io/announcements/late-breaking-submission-track/) for more. Authors of Late Breaking papers that have been  reviewed previously may choose to include a link to the previous reviews if available. All other stipulations on this page also apply to Late Breaking submissions.
 
 ## Presentation at the Workshop
 
