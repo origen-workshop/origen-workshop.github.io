@@ -48,6 +48,12 @@ widget6:
   image: 'headshots/thomason.jpg'
   text: 'University of Southern California'
   description: 'Jesse Thomason is an Assistant Professor at the University of Southern California where he leads the Grounding Language in Actions, Multimodal Observations, and Robots (GLAMOR) Lab. His research enables agents and robots to better understand and respond to human language by considering the grounded context in which that language occurs. GLAMOR has received funding from the Defense Advanced Projects Research Agency (DARPA), Amazon, the National Science Foundation (NSF), the National Institute of Health (NIH), the Army Research Laboratory (ARL), and the Laboratory for Analytical Sciences (LAS). Previously, he was a postdoctoral researcher at the University of Washington, and received his PhD in 2018 from the University of Texas at Austin.'
+  id: diyi
+  title: "Diyi Yang"
+  url: 'https://cs.stanford.edu/~diyiy/'
+  image: 'headshots/yang.jpg'
+  text: 'Stanford University'
+  description: 'Diyi Yang is an assistant professor in the Computer Science Department at Stanford University. Her research focuses on human-centered natural language processing and human-AI interaction.  She is a recipient of  Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), an ONR Young Investigator Award (2023), and a Sloan Research Fellowship (2024).  Her work has received multiple paper awards or nominations at top NLP and HCI conferences.'
 #
 # Use the call for action to show a button on the frontpage
 #
