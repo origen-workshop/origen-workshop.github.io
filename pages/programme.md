@@ -47,6 +47,6 @@ Lang Xiong, Raina Gao, Alyssa Jeong, Yicheng Fu, Kevin Zhu, Sean O'Brien, Vasu S
 * *Constructive Disobedience and Trust in Human-Agent Interaction: A Multi-Scale Study*\
 Gordon Briggs, Christina Wasylyshyn
 
-* CONFI-Lingual: A Confidence Evaluation Approach for Machine Translation\
+* *CONFI-Lingual: A Confidence Evaluation Approach for Machine Translation*\
 Daniel Chechelnitsky, Gayathri Ganesh Lakshmy, Kaitlyn Zhou, Chrysoula Zerva, Maarten Sap
 
