@@ -21,7 +21,7 @@ permalink           : "/programme/"
 Philip Lippmann, Matthijs T. J. Spaan, Jie Yang
 
 * *Med-CAM: Improving Medical Question Answering with Confidence-Aware Methods*\
-Karina H Halevy, Kshitish Ghate, Jimin Mun, Mona T. Diab, Maarten Sap
+Karina H. Halevy, Kshitish Ghate, Jimin Mun, Mona T. Diab, Maarten Sap
 
 * *TextBandit: Evaluating Probabilistic Reasoning in LLMs Through Language-Only Decision Tasks*\
 Arjun Damerla, Jimin Lim, Nikil Selladurai, Nam Le, Yanxi Jiang
