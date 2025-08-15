@@ -3,4 +3,50 @@ layout              : page
 title               : "Programme"
 permalink           : "/programme/"
 ---
-Coming soon...
+**9:00-9:15** - Opening remarks\
+**9:15-9:50** - *Invited talk I*: **Andreas Vlachos** is a Professor of Natural Language Processing and Machine Learning at the Department of Computer Science and Technology at the University of Cambridge and a Dinesh Dhamija fellow of Fitzwilliam College. His expertise includes dialogue modeling, automated fact-checking, imitation and active learning, semantic parsing, and natural language generation and summarization.\
+**9:50-11:00** - Accepted paper lightning talks: 4 minutes each + 1 minute transition\
+**11:00-11:15** - Coffee break\
+**11:15-12:00** - *Keynote talk*: **Malihe Alikhani** is an Assistant Professor at Northeastern University’s Khoury College of Engineering and Visiting Fellow at The Center on Regulation and Markets at Brookings. She works towards developing safe and fair AI systems that enhance communication, decision-making, and knowledge-sharing across disciplines and populations.\
+**12:00-12:35** - *Invited talk II*: **Bertram F. Malle** is a Professor of Cognitive and Psychological Sciences at Brown University.  He received the Society of Experimental Social Psychology (SESP) Outstanding Dissertation award, an NSF CAREER award, the Decision Analysis Society 2018 best publication award, several HRI best-paper awards, and the 2019 SESP Scientific Impact Award. Malle’s research focuses on moral psychology and human-machine interaction.\
+**12:35-2:05** - Lunch\
+**2:05-2:40** - *Invited talk III*: **Q. Vera Liao** is an Associate Professor of Computer Science and Engineering at the University of Michigan, and previously a researcher at Microsoft Research and IBM research. Her current interests are in human-AI interaction, responsible AI and AI transparency, with a goal of bridging emerging AI technologies and human-centered perspectives.\
+**2:40-3:40** - Poster Session\
+**3:40-4:00** - Coffee break\
+**4:00-4:45** - Panel discussion: Future of Reliable and Accountable AI\
+**4:45-5:00** - Conclusion
+
+# List of accepted papers
+* *Illuminating Blind Spots of Language Models with Targeted Agent-in-the-Loop Synthetic Data*\
+Philip Lippmann, Matthijs T. J. Spaan, Jie Yang
+
+* *Med-CAM: Improving Medical Question Answering with Confidence-Aware Methods*\
+Karina H Halevy, Kshitish Ghate, Jimin Mun, Mona T. Diab, Maarten Sap
+
+* *TextBandit: Evaluating Probabilistic Reasoning in LLMs Through Language-Only Decision Tasks*\
+Arjun Damerla, Jimin Lim, Nikil Selladurai, Nam Le, Yanxi Jiang
+
+* *Medal Matters: Probing LLMs’ Failure Cases Through Olympic Rankings*\
+Juhwan Choi, Seunguk Yu, JungMin Yun, YoungBin Kim
+
+* *Extending AutoCompressors via Surprisal-Based Dynamic Segmentation*\
+Richard Xu, Raine Ma, Dawson Park, David Guo, Srivishnu Ramamurthi, Charles Duong, Kevin Zhu, Vasu Sharma, Sean O'Brien
+
+* *From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits*\
+Karim Saraipour, Shichang Zhang
+
+* *How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence*\
+Hongzhe Du, Weikai Li, Min Cai, Karim Saraipour, Zimin Zhang, Yizhou Sun, Himabindu Lakkaraju, Shichang Zhang
+
+* *On the Retention of Edited Knowledge in Fine-Tuned Language Models*\
+Fufang Wen, Shichang Zhang
+
+* *Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques*\
+Lang Xiong, Raina Gao, Alyssa Jeong, Yicheng Fu, Kevin Zhu, Sean O'Brien, Vasu Sharma
+
+* *Constructive Disobedience and Trust in Human-Agent Interaction: A Multi-Scale Study*\
+Gordon Briggs, Christina Wasylyshyn
+
+* CONFI-Lingual: A Confidence Evaluation Approach for Machine Translation\
+Daniel Chechelnitsky, Gayathri Ganesh Lakshmy, Kaitlyn Zhou, Chrysoula Zerva, Maarten Sap
+
