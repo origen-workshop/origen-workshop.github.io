@@ -17,39 +17,40 @@ permalink           : "/programme/"
 **4:45-5:00** - Conclusion
 
 # List of accepted papers
-* *Illuminating Blind Spots of Language Models with Targeted Agent-in-the-Loop Synthetic Data*\
+* *[Illuminating Blind Spots of Language Models with Targeted Agent-in-the-Loop Synthetic Data](https://origen-workshop.github.io/assets/pdf/1_Illuminating_Blind_Spots_of_.pdf)*\
 Philip Lippmann, Matthijs T. J. Spaan, Jie Yang
 
-* *Med-CAM: Improving Medical Question Answering with Confidence-Aware Methods*\
+* *[Med-CAM: Improving Medical Question Answering with Confidence-Aware Methods](https://origen-workshop.github.io/assets/pdf/4_Med_CAM_Improving_Medical_Qu.pdf)*\
 Karina H. Halevy, Kshitish Ghate, Jimin Mun, Mona T. Diab, Maarten Sap
 
-* *TextBandit: Evaluating Probabilistic Reasoning in LLMs Through Language-Only Decision Tasks*\
+* *[TextBandit: Evaluating Probabilistic Reasoning in LLMs Through Language-Only Decision Tasks](https://origen-workshop.github.io/assets/pdf/7_TextBandit_Evaluating_Probab.pdf)*\
 Arjun Damerla, Jimin Lim, Nikil Selladurai, Nam Le, Yanxi Jiang
 
-* *Medal Matters: Probing LLMs’ Failure Cases Through Olympic Rankings*\
+* *[Medal Matters: Probing LLMs’ Failure Cases Through Olympic Rankings](https://origen-workshop.github.io/assets/pdf/8_Medal_Matters_Probing_LLMs_F.pdf
+)*\
 Juhwan Choi, Seunguk Yu, JungMin Yun, YoungBin Kim
 
-* *Extending AutoCompressors via Surprisal-Based Dynamic Segmentation*\
+* *[Extending AutoCompressors via Surprisal-Based Dynamic Segmentation](https://origen-workshop.github.io/assets/pdf/9_Extending_AutoCompressors_vi.pdf)*\
 Richard Xu, Raine Ma, Dawson Park, David Guo, Srivishnu Ramamurthi, Charles Duong, Kevin Zhu, Vasu Sharma, Sean O'Brien
 
-* *From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits*\
+* *[From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits](https://origen-workshop.github.io/assets/pdf/10_From_Indirect_Object_Identi.pdf)*\
 Karim Saraipour, Shichang Zhang
 
-* *How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence*\
+* *[How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence](https://origen-workshop.github.io/assets/pdf/11_How_Post_Training_Reshapes_.pdf)*\
 Hongzhe Du, Weikai Li, Min Cai, Karim Saraipour, Zimin Zhang, Yizhou Sun, Himabindu Lakkaraju, Shichang Zhang
 
-* *On the Retention of Edited Knowledge in Fine-Tuned Language Models*\
+* *[On the Retention of Edited Knowledge in Fine-Tuned Language Models](https://origen-workshop.github.io/assets/pdf/13_On_the_Retention_of_Edited_.pdf)*\
 Fufang Wen, Shichang Zhang
 
-* *Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques*\
+* *[Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques](https://origen-workshop.github.io/assets/pdf/15_Sarc7_Evaluating_Sarcasm_De.pdf)*\
 Lang Xiong, Raina Gao, Alyssa Jeong, Yicheng Fu, Kevin Zhu, Sean O'Brien, Vasu Sharma
 
-* *Constructive Disobedience and Trust in Human-Agent Interaction: A Multi-Scale Study*\
+* *[Constructive Disobedience and Trust in Human-Agent Interaction: A Multi-Scale Study](https://origen-workshop.github.io/assets/pdf/16_Constructive_Disobedience_a.pdf)*\
 Gordon Briggs, Christina Wasylyshyn
 
-* *CONFI-Lingual: A Confidence Evaluation Approach for Machine Translation*\
+* *[CONFI-Lingual: A Confidence Evaluation Approach for Machine Translation](https://origen-workshop.github.io/assets/pdf/17_CONFI_Lingual_A_Confidence_.pdf)*\
 Daniel Chechelnitsky, Gayathri Ganesh Lakshmy, Kaitlyn Zhou, Chrysoula Zerva, Maarten Sap
 
-* *[Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues](assets/pdf/LB1_Let_s_Roleplay_Examining_L.pdf)*\
+* *[Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues](https://origen-workshop.github.io/assets/pdf/LB1_Let_s_Roleplay_Examining_L.pdf/)*\
 Abhijnan Nath, Carine Graff, Nikhil Krishnaswamy
 
