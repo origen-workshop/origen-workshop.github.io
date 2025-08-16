@@ -50,3 +50,6 @@ Gordon Briggs, Christina Wasylyshyn
 * *CONFI-Lingual: A Confidence Evaluation Approach for Machine Translation*\
 Daniel Chechelnitsky, Gayathri Ganesh Lakshmy, Kaitlyn Zhou, Chrysoula Zerva, Maarten Sap
 
+* *Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues*\
+Abhijnan Nath, Carine Graff, Nikhil Krishnaswamy
+
