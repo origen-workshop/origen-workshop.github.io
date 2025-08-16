@@ -51,6 +51,6 @@ Gordon Briggs, Christina Wasylyshyn
 * *[CONFI-Lingual: A Confidence Evaluation Approach for Machine Translation](https://origen-workshop.github.io/assets/pdf/17_CONFI_Lingual_A_Confidence_.pdf)*\
 Daniel Chechelnitsky, Gayathri Ganesh Lakshmy, Kaitlyn Zhou, Chrysoula Zerva, Maarten Sap
 
-* *[Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues](https://origen-workshop.github.io/assets/pdf/LB1_Let_s_Roleplay_Examining_L.pdf/)*\
+* *[Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues](https://origen-workshop.github.io/assets/pdf/LB1_Let_s_Roleplay_Examining_L.pdf)*\
 Abhijnan Nath, Carine Graff, Nikhil Krishnaswamy
 
