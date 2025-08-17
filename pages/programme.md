@@ -14,6 +14,10 @@ permalink           : "/programme/"
 **2:40-3:40** - Poster Session\
 **3:40-4:00** - Coffee break\
 **4:00-4:45** - Panel discussion: Future of Reliable and Accountable AI\
+&emsp;**Matthias Scheutz**, Tufts University\
+&emsp;**Jesse Thomason**, University of Southern California\
+&emsp;**Diyi Yang**, Stanford University\
+&emsp;**Matthew Marge**, DARPA\
 **4:45-5:00** - Conclusion
 
 # List of accepted papers
