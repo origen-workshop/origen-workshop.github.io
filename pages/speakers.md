@@ -66,7 +66,7 @@ widget8:
   id: matt
   title: "Matthew Marge"
   url: '/https://scholar.google.com/citations?user=K931JfEAAAAJ&hl=en'
-  image: 'headshots/marge.jpg'
+  image: 'headshots/marge.jpeg'
   text: 'DARPA'
   description: 'Matthew Marge is a Program Manager in DARPA’s Information Innovation Office (I2O), where he leads research programs in artificial intelligence and machine learning. His work explores human-AI collaboration and the use of generative models in complex decision-making environments. Prior to DARPA, Dr. Marge was a senior computer scientist at the Army Research Laboratory, where his research focused on natural language processing, conversational AI, and human-robot interaction. He received his Ph.D. from the School of Computer Science at Carnegie Mellon University.'
 #
