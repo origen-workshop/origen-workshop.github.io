@@ -8,15 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_5.jpg
 widget1:
-  title: "Submissions"
-  url: 'http://origen-workshop.github.io/submissions/'
+  title: "Programme"
+  url: 'http://origen-workshop.github.io/programme/'
   image: 
-  text: 'Call for Participation'
+  text: 'Schedule and Accepted Papers'
 widget2:
-  title: "Dates"
-  url: 'http://origen-workshop.github.io/dates/'
+  title: "Invited Speakers"
+  url: 'http://origen-workshop.github.io/speakers/'
   image: 
-  text: 'Important Dates'
+  text: 'Invited Talks and Panelists'
 widget3:
   title: "Organizers"
   url: 'http://origen-workshop.github.io/organizers/'
