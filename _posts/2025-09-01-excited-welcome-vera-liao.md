@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Facilitating Appropriate Reliance on AI: Lessons from HCI Research"
+subheadline: "Talk title and abstract now posted"
 title: "We are excited to welcome invited speaker Q. Vera Liao!"
-teaser: "Talk title and abstract now posted"
+teaser: "Facilitating Appropriate Reliance on AI: Lessons from HCI Research"
 categories:
   - announcements
 tags:
