@@ -36,7 +36,7 @@ widget4:
   url: 'https://qveraliao.com/'
   image: 'headshots/vera.jpg'
   text: 'University of Michigan/MSR FATE'
-  description: 'Q. Vera Liao is an Associate Professor of Computer Science and Engineering at the University of Michigan, and previously a researcher at Microsoft Research and IBM research. Her current interests are in human-AI interaction, responsible AI and AI transparency, with a goal of bridging emerging AI technologies and human-centered perspectives.'
+  description: 'Q. Vera Liao is an Associate Professor of Computer Science and Engineering at the University of Michigan, and previously a researcher at Microsoft Research and IBM Research. Her current interests are in human-AI interaction, responsible AI and AI transparency, with a goal of bridging emerging AI technologies and human-centered perspectives.'
 
 widget5:
   id: matthias
