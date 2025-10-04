@@ -3,7 +3,7 @@ layout              : page
 title               : "Programme"
 permalink           : "/programme/"
 ---
-ORIGen will be held in the [Palais des Congrès](https://www.google.com/maps/search/Palais+des+congrès+de+Montréal/@45.5046876,-73.5628025,859m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D) in Montréal, QC, Canada on **October 10, 2025**.
+ORIGen will be held in the [Palais des Congrès](https://www.google.com/maps/search/Palais+des+congrès+de+Montréal/@45.5046876,-73.5628025,859m/data=!3m2!1e3!4b1?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D) in Montréal, QC, Canada on **October 10, 2025** in **Room 518A**.
 
 **9:00-9:15** - Opening remarks\
 **9:15-9:50** - *Invited talk I*: **Andreas Vlachos** - *Towards Constructive Conversations*\
