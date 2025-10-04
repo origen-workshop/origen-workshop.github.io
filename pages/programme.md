@@ -25,6 +25,7 @@ ORIGen will be held in the [Palais des Congrès](https://www.google.com/maps/sea
 &emsp;**Jesse Thomason**, University of Southern California\
 &emsp;**Diyi Yang**, Stanford University\
 &emsp;**Matthew Marge**, DARPA\
+&emsp;Moderator: James Pustejovsky, Brandeis University\
 **4:45-5:00** - Conclusion
 
 # List of accepted papers
