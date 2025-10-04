@@ -61,3 +61,6 @@ Gordon Briggs, Christina Wasylyshyn
 * *[Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues](https://origen-workshop.github.io/assets/pdf/LB1_Let_s_Roleplay_Examining_L.pdf)*\
 Abhijnan Nath, Carine Graff, Nikhil Krishnaswamy
 
+* *[Uncertainty Quantification in Retrieval Augmented Question Answering](https://origen-workshop.github.io/assets/pdf/LB2_Uncertainty_Quantification.pdf)*\
+Laura Perez-Beltrachini, Mirella Lapata
+
