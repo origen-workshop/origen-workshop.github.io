@@ -9,7 +9,7 @@ ORIGen will be held in the [Palais des Congrès](https://www.google.com/maps/sea
 **9:00-9:15** - Opening remarks\
 **9:15-9:50** - *Invited talk I*: **Andreas Vlachos** - *Towards Constructive Conversations*\
 &emsp;In this talk I will present our work motivated by the question “What makes conversations among humans more constructive and how can we intervene to make them happen”. First I will discuss group decision-making in the context of the Wason Card Selection task,  where we find that groups perform better than individuals, and, more interestingly, can reach a correct decision even if no one had it in the beginning of the conversation. Following this, I will present the Wikipedia disputes dataset which has allowed us to examine how disagreements are resolved in the context of Wikipedia, the most successful large-scale collaborative project. Finally, I will discuss how LLMs could be used to intervene to improve our conversations.\
-**9:50-10:50** - Accepted paper lightning talks: 4 minutes each + 1 minute transition\
+**9:50-10:50** - Accepted paper lightning talks: 4 minutes each + 1 minute transition (*[presentation order](#papers)*)\
 **10:50-11:05** - Coffee break\
 **11:05-12:00** - *Keynote talk*: **Malihe Alikhani** - *Theory of Mind in Generative Models: From Uncertainty to Shared Meaning*\
 &emsp;We will explore how generative models can effectively facilitate communicative grounding by incorporating theory of mind alongside uncertainty and human feedback. We begin by examining how models signal and quantify predictive uncertainty, highlighting computational parallels to epistemic stance. Next, we discuss belief modeling, presenting evidence that language models can infer degrees of interlocutor uncertainty, a crucial component in managing reference and intent. We address how a failure to accurately track beliefs may lead to sycophancy, or over-alignment with user views. We then explore the positive role of friction introduced through structured discourse or interactional pauses, which slows down interactions to promote clarity and facilitate grounding. Finally, we extend these concepts to multimodal and socially situated contexts, drawing on research in sign language modeling and human-in-the-loop training to illustrate how shared meaning can be constructed across diverse modalities and populations. This line of research demonstrates how generative models embody core mechanisms of pragmatic reasoning, offering linguists and cognitive scientists both methodological challenges and opportunities to question how computational systems reflect and shape our understanding of meaning and interaction.\
@@ -25,10 +25,10 @@ ORIGen will be held in the [Palais des Congrès](https://www.google.com/maps/sea
 &emsp;**Jesse Thomason**, University of Southern California\
 &emsp;**Diyi Yang**, Stanford University\
 &emsp;**Matthew Marge**, DARPA\
-&emsp;Moderator: James Pustejovsky, Brandeis University\
+&emsp;Moderator: **James Pustejovsky**, Brandeis University\
 **4:35-5:00** - Best Paper Award and Conclusion
 
-# List of accepted papers
+# <a name="papers"></a>List of accepted papers
 * *[Illuminating Blind Spots of Language Models with Targeted Agent-in-the-Loop Synthetic Data](https://origen-workshop.github.io/assets/pdf/1_Illuminating_Blind_Spots_of_.pdf)*\
 Philip Lippmann, Matthijs T. J. Spaan, Jie Yang
 
