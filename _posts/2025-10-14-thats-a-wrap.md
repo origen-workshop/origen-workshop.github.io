@@ -15,7 +15,7 @@ tags:
 #
 header: no
 image: 
-    title: "https://origen-workshop.github.io/images/2025/IMG_7556.jpeg"
+    title: "2025/IMG_7556.jpeg"
     thumb: 
     homepage: 
 mediaplayer: false
