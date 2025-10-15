@@ -16,7 +16,7 @@ tags:
 header: no
 image: 
     title: "2025/IMG_7556.jpeg"
-    thumb: 
+    thumb: "2025/IMG_7556.jpeg"
     homepage: 
 mediaplayer: false
 ---
