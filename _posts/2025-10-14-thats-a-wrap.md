@@ -13,11 +13,10 @@ tags:
 #
 # Styling
 #
-header:
-    image: "2025/IMG_7556.jpeg"
+header: no
 image: 
-    title: "2025/IMG_7556.jpeg"
-    thumb: 
+    title: 2025/IMG_7556.jpeg
+    thumb: 2025/IMG_7556.jpeg
     homepage: 
 mediaplayer: false
 ---
