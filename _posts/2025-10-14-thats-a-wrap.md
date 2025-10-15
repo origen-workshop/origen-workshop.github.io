@@ -24,7 +24,7 @@ The inaugural Workshop on Optimal Reliance and Accountabilty in Interactions wit
 
 Best Paper was awarded to Gordon Briggs and Christina Wasylyshyn for *Constructive Disobedience and Trust in Human-Agent Interaction: A Multi-Scale Study*. Congratulations to Gordon and Christina!
 
-Slide decks for invited talks and lightning presentations can now be found on the [Programme](https://origen-workshop.github.io/programme/) page. Stay tuned for the next one!
+Slide decks for invited talks and lightning presentations can now be found on the [Programme](https://origen-workshop.github.io/2025/programme/) page. Stay tuned for the next one!
 
 <a href="https://origen-workshop.github.io/images/2025/IMG_7522.jpeg"><img src="https://origen-workshop.github.io/images/2025/IMG_7522.jpeg" alt="Andreas Vlachos answers questions during ORIGen 2025" title="Andreas Vlachos answers questions during ORIGen 2025" width="200"/></a>
 <a href="https://origen-workshop.github.io/images/2025/IMG_7531.jpeg"><img src="https://origen-workshop.github.io/images/2025/IMG_7531.jpeg" alt="Malihe Alikhani delivers the keynote talk during ORIGen 2025" title="Malihe Alikhani delivers the keynote talk during ORIGen 2025" width="200"/></a>
