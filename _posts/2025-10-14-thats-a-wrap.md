@@ -14,9 +14,9 @@ tags:
 # Styling
 #
 header: no
-image:
-    title: 
-    thumb: 
+image: 
+    title: Best Paper award winner, panelists, and organizers at the conclusion of ORIGen 2025
+    thumb: "https://origen-workshop.github.io/images/2025/IMG_7556.jpeg"
     homepage: 
 mediaplayer: false
 ---
