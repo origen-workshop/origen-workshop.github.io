@@ -20,6 +20,8 @@ Independently organized in support of the [DARPA FACT program](https://www.darpa
 
 ## Submission Information
 
+**ORIGen 2025 has concluded. Please stay tuned for information on future editions.**
+
 We welcome papers on the topic of reliance and accountability in human-AI interactions, with a specific focus on under- or overreliance on LLMs, and establishing accountability for joint human-AI decisions. Submissions may fall into any of the following areas:
 1. **Theory and research methods**: computational, psychological, cognitive, and
 formal models of reliance and accountability;
