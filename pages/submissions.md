@@ -51,4 +51,8 @@ Accepted archival papers must be presented at the workshop to appear in the proc
 
 ### Attendee Support
 
-We will provide a limited number of grants, with support from the Artificial Intelligence Journal's [31st Call for Funding Opportunities for Promoting AI Research](https://aij.ijcai.org/funding-opportunities-for-promoting-ai-research/) (under the name First Workshop on Friction in Language Modeling), to help defray travel and attendance costs. Applications for these grants will open after the accepted papers are announced.
+We will provide a limited number of grants, with support from the Artificial Intelligence Journal (AIJ)'s [31st Call for Funding Opportunities for Promoting AI Research](https://aij.ijcai.org/funding-opportunities-for-promoting-ai-research/) (under the name First Workshop on Friction in Language Modeling), to help defray travel and attendance costs. Applications for these grants will open after the accepted papers are announced.
+
+### Best Paper Award
+
+A Best Paper Award will be given to recognize excellent research contributions from among the accepted papers, toward the workshop themes of trust and reliance in AI. The award comes with a certificate of recognition and a cash award. For 2025, the financial award is $250 and comes from the AIJ support funding provided to the workshop.
