@@ -38,7 +38,7 @@ ORIGen 2025 was held in the [Palais des Congrès](https://www.google.com/maps/se
 Philip Lippmann, Matthijs T. J. Spaan, Jie Yang
 
 * *[Med-CAM: Improving Medical Question Answering with Confidence-Aware Methods](https://origen-workshop.github.io/assets/pdf/2025/papers/4_Med_CAM_Improving_Medical_Qu.pdf)*\
-Karina H. Halevy, Kshitish Ghate, Jimin Mun, Mona T. Diab, Maarten Sap
+Karina H. Halevy, Kshitish Ghate, Jimin Mun, Mona T. Diab, Maarten Sap (*non-archival*)
 
 * *[TextBandit: Evaluating Probabilistic Reasoning in LLMs Through Language-Only Decision Tasks](https://origen-workshop.github.io/assets/pdf/2025/papers/7_TextBandit_Evaluating_Probab.pdf)*\
 Arjun Damerla, Jimin Lim, Nikil Selladurai, Nam Le, Yanxi Jiang
@@ -48,19 +48,19 @@ Arjun Damerla, Jimin Lim, Nikil Selladurai, Nam Le, Yanxi Jiang
 Juhwan Choi, Seunguk Yu, JungMin Yun, YoungBin Kim
 
 * *[Extending AutoCompressors via Surprisal-Based Dynamic Segmentation](https://origen-workshop.github.io/assets/pdf/2025/papers/9_Extending_AutoCompressors_vi.pdf)*\
-Richard Xu, Raine Ma, Dawson Park, David Guo, Srivishnu Ramamurthi, Charles Duong, Kevin Zhu, Vasu Sharma, Sean O'Brien
+Richard Xu, Raine Ma, Dawson Park, David Guo, Srivishnu Ramamurthi, Charles Duong, Kevin Zhu, Vasu Sharma, Sean O'Brien (*non-archival*)
 
 * *[From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits](https://origen-workshop.github.io/assets/pdf/2025/papers/10_From_Indirect_Object_Identi.pdf)*\
-Karim Saraipour, Shichang Zhang
+Karim Saraipour, Shichang Zhang (*non-archival*)
 
 * *[How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence](https://origen-workshop.github.io/assets/pdf/2025/papers/11_How_Post_Training_Reshapes_.pdf)*\
-Hongzhe Du, Weikai Li, Min Cai, Karim Saraipour, Zimin Zhang, Yizhou Sun, Himabindu Lakkaraju, Shichang Zhang
+Hongzhe Du, Weikai Li, Min Cai, Karim Saraipour, Zimin Zhang, Yizhou Sun, Himabindu Lakkaraju, Shichang Zhang (*non-archival*)
 
 * *[On the Retention of Edited Knowledge in Fine-Tuned Language Models](https://origen-workshop.github.io/assets/pdf/2025/papers/13_On_the_Retention_of_Edited_.pdf)*\
-Fufang Wen, Shichang Zhang
+Fufang Wen, Shichang Zhang (*non-archival*)
 
 * *[Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques](https://origen-workshop.github.io/assets/pdf/2025/papers/15_Sarc7_Evaluating_Sarcasm_De.pdf)*\
-Lang Xiong, Raina Gao, Alyssa Jeong, Yicheng Fu, Kevin Zhu, Sean O'Brien, Vasu Sharma
+Lang Xiong, Raina Gao, Alyssa Jeong, Yicheng Fu, Kevin Zhu, Sean O'Brien, Vasu Sharma (*non-archival*)
 
 * *[Constructive Disobedience and Trust in Human-Agent Interaction: A Multi-Scale Study](https://origen-workshop.github.io/assets/pdf/2025/papers/16_Constructive_Disobedience_a.pdf)*\
 Gordon Briggs, Christina Wasylyshyn
@@ -69,5 +69,5 @@ Gordon Briggs, Christina Wasylyshyn
 Abhijnan Nath, Carine Graff, Nikhil Krishnaswamy
 
 * *[Uncertainty Quantification in Retrieval Augmented Question Answering](https://origen-workshop.github.io/assets/pdf/2025/papers/LB2_Uncertainty_Quantification.pdf)*\
-Laura Perez-Beltrachini, Mirella Lapata
+Laura Perez-Beltrachini, Mirella Lapata (*non-archival*)
 
